@@ -14,6 +14,7 @@ class Search
     {
         let c = aVal + bVal
         return c
+        print(c)
     }
     
 }
