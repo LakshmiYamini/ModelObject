@@ -15,6 +15,9 @@ class Search
         let c = aVal + bVal
         return c
         print(c)
+        
+        let d = aVal - bVal
+        return d
     }
     
 }
