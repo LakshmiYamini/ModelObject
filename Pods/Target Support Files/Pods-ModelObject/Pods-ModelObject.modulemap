@@ -1,0 +1,6 @@
+framework module Pods_ModelObject {
+  umbrella header "Pods-ModelObject-umbrella.h"
+
+  export *
+  module * { export * }
+}
